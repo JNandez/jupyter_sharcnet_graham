@@ -3,4 +3,4 @@ This repo contains the examples given in the SHARCNET general interest seminar o
 
 * intro_machine_learning.ipynn: contains the main machine learning notebook that analyses power plant data.
 * power_data.csv: contains the data used in the main notebook.
-* spark_init.ipynb: gives an example on how to load Apache Spark once the module spark has been loaded on Graham or Cedar. Do not forget to install [jupyterlmod](https://github.com/cmd-ntrf/jupyter-lmod)
+* spark_init.ipynb: gives an example on how to load Apache Spark once the module spark has been loaded on Graham or Cedar. Do not forget to install [jupyterlmod](https://github.com/cmd-ntrf/jupyter-lmod) and also to load the module `spark/2.2.0` before you run the notebook. 
